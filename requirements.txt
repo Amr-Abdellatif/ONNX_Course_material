@@ -1,0 +1,10 @@
+joblib==1.2.0
+onnx==1.14.1
+onnxruntime==1.16.3
+scikit_learn==1.2.2
+skl2onnx==1.16.0
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
+tf2onnx==1.16.1
+torch==2.3.0
+numpy==1.23.5
