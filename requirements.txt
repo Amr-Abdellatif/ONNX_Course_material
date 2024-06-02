@@ -8,3 +8,4 @@ tensorflow_intel==2.12.0
 tf2onnx==1.16.1
 torch==2.3.0
 numpy==1.23.5
+ml-dtypes==0.3.1
